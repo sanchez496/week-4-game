@@ -1,4 +1,10 @@
 
+var rose
+var gold
+var turq
+var purple
+
+
 
 // Game Start
 function startGame(){
@@ -18,14 +24,26 @@ var randomNumber = "";
 
 	console.log(randomNumber);
 
-$(".Random").append( randomNumber )
+$(".darkscore").append( randomNumber )
 
+$( "#rose" ).click(function() {
+	alert( "it's working" );
+});
+
+$( "#gold" ).click(function() {
+	alert( "it's working" );
+});
+
+$( "#turq" ).click(function() {
+	alert( "it's working" );
+});
 
 // crystal number generater and assingment
 
-$("#purple").on("click", function(){
+$( "#purple" ).click(function(){
 
 	alert("test");
 })
 
 // Restart and Reset Game
+
