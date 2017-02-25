@@ -1,0 +1,53 @@
+.Random{
+	text-align: center;
+	padding: 0px 0px 60px 0px;
+	border: 2px;
+	border-style: solid;	
+	border-color: ff0000;
+
+}
+
+.counter{
+	text-align: center;
+	border: 2px;
+	border-style: solid;
+	margin: 0px 0px 10px 0px;
+	border-color: ff0000;
+
+}
+
+.pictures{
+	width: 200px;
+	margin: 0px 5px 0px 5px;
+	padding: 0px 0px 0px 0px;
+}
+
+.gold{
+	width: 200px;
+}
+
+.score{
+	text-align: center;
+	border: 2px;
+	border-style: solid;
+	margin: 10px 0px 10px 0px;
+	border-color: FF0000;
+}
+
+#purple{
+
+}
+#turq{
+
+}
+#gold{
+
+}
+#rose{
+
+}
+
+.footer{
+	text-align: center;
+	font-size: 30px;
+}
